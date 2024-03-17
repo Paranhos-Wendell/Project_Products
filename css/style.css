@@ -466,6 +466,7 @@ footer {
         border-radius: 0;
         border-right: none;
         border-bottom: 2px solid #fff;
+        
     }
 
     .company-info ul {
@@ -504,6 +505,7 @@ footer {
         margin-top: 20px;
         box-shadow: 0 0 30px #fff;
         border: none;
+        margin-top: -150px;
     }
 
     .slider-container:hover{
@@ -511,6 +513,7 @@ footer {
     }
 
     .container {
+        
         border-top: 2px solid #fff;
         margin: 0 auto;
     }
@@ -519,9 +522,12 @@ footer {
         font-size: 40px;
     }
 
-
+    .mais{
+        margin-top: 150px;
+    }
 
     .sobre{
+        
         font-size: 16px;
     }
 }
@@ -593,8 +599,12 @@ footer {
 
 
     .item-details {
-        margin-top: 10px;
-        
+        margin-top: 50px;
+        padding-top: 50px;
+    }
+
+    .item-details  p {
+        text-align: start;
     }
 
     .slider-container img {
