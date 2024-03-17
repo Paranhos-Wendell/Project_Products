@@ -506,9 +506,7 @@ footer {
 
     .container {
         border-top: 2px solid #fff;
-        
-        width: 450px;
-        margin-left: -45px;
+        margin: 0 auto;
     }
 
     .mais h2{
